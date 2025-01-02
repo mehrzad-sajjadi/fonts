@@ -1,9 +1,9 @@
-@font-face {
-    font-family: "vazir";
-    src: url("../fonts/Vazir.woff") format("woff");
-}
+#@font-face {
+#    font-family: "vazir";
+#    src: url("../fonts/Vazir.woff") format("woff");
+#}
 
-* {
-    direction: rtl;
-    font-family: "vazir";
-}
+#* {
+#    direction: rtl;
+#    font-family: "vazir";
+#}
